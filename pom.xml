@@ -120,11 +120,11 @@
         <version>2.2</version> 
         <configuration> 
         <server>tomcat-development-server</server> 
-        <url>http://144.38.111.111:8080/manager/text</url> 
+        <url>http://144.38.201.118:8080/manager/text</url> 
         <warFile>target\demo.war</warFile> 
         <path>/demo</path> 
-        <username>admin</username>
-        <password>cloud@123</password>
+        <username>jvandeberg</username>
+        <password>21Jonathan</password>
         </configuration> 
         </plugin> 
 
